@@ -104,6 +104,20 @@ Visit [http://localhost:8501](http://localhost:8501) once the services are up.
 
 See `load.py` for the full DDL statements.
 
+## Screenshots of the dashboard
+
+![image](https://github.com/user-attachments/assets/f9f33c73-f582-4848-bb1e-0afb19c9e505)
+
+![image](https://github.com/user-attachments/assets/55666f12-738e-4475-987c-a8ac1b5bbbfa)
+
+![image](https://github.com/user-attachments/assets/4d9f67ea-411e-4b17-8b3f-7a58d057420d)
+
+![image](https://github.com/user-attachments/assets/3d4e064e-1e05-467f-ba44-1d240a28bdde)
+
+![image](https://github.com/user-attachments/assets/0fd26484-5f94-4c0f-bb47-4e65102a3143)
+
+![image](https://github.com/user-attachments/assets/e0e40815-55f7-4b30-9452-ac50448bb784)
+
 ## Contributing
 
 1. Fork the repository.
