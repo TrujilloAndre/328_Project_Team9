@@ -1,0 +1,10 @@
+pandas
+psycopg2-binary
+seaborn
+matplotlib
+sqlalchemy
+plotly
+streamlit
+python-dotenv
+requests
+import-ipynb
